@@ -1,5 +1,5 @@
 # TwitterTerminalApp
- A Twitter terminal app project using PosthreSQL and OAuth2
+ A Twitter terminal app project using PostgreSQL and OAuth2
 
 ## Instructions:
 
